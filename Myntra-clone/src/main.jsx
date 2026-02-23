@@ -1,8 +1,9 @@
 import React from "react";
 import ReactDOM from "react-dom/client";
 import App from "./routes/App.jsx";
-import "./index.css";
+
 import "bootstrap/dist/css/bootstrap.min.css";
+import "./index.css";
 
 import { RouterProvider, createBrowserRouter } from "react-router-dom";
 import Bag from "./routes/bag.jsx";
