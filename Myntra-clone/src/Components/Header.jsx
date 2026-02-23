@@ -12,7 +12,7 @@ const Header = () => {
       <header>
         <div className="logo_container">
           <Link to="/" className="myntra_home">
-            <img src="images/myntra_logo.webp" alt="Myntra Home" />
+            <img src="/images/myntra_logo.webp" alt="Myntra Home" />
           </Link>
         </div>
         <nav className="nav_bar">
